@@ -7,7 +7,7 @@
 
 	<!-- Default page to serve -->
 	<welcome-file-list>
-		<welcome-file>GoogleSpreadsheet.html</welcome-file>
+		<welcome-file>SpringInGAE.html</welcome-file>
 	</welcome-file-list>
 
 	<servlet>
